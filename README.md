@@ -7,8 +7,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ccc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:jrggroberto@gmail.com)](mailto:jrggroberto@gmail.com)
 
 ### Olá! Hi! 👋
-Meu nome é Roberto, sou desenvolvedor, também tenho experiência em infraestrutura de DBA.
+My name's Roberto, I'm a developer, I also have experience in infrastructure and DBA. I'm from Brazil,
 
+I've lived in Rio de Janeiro, Lisbon and now I'm in Paraná. I like to travel, stay with my family, ride a bike, play the basses, draw and code.
+
+I want to work remotely.
+
+* 🏡 &nbsp; Home office is my :office:
+* 📚 &nbsp; Currently I'm studying: NodeJS, ReactJS, React Native, English
+* 👽 &nbsp; Learning any technology that appears on my way
+* :bike: &nbsp; I only leave the home office if I go to work nearby
+
+---
+
+Technologies, languages and tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -17,9 +29,14 @@ Meu nome é Roberto, sou desenvolvedor, também tenho experiência em infraestru
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-Oracle DB | Linux | MacOS | Windows | VMware | Avaya | Batch Script | Gimp | SketchBook
+Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Batch Script | draw.io | Gimp | SketchBook
 
 ---
+
+View my stats on Github
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JRGGroberto&theme=default&show_icons=true&hide=issues&hide_border=true" alt="JRGGroberto GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JRGGRoberto&theme=default&show_icons=true&hide=issues&hide_border=true" alt="JRGGRoberto GitHub" />
 </p>
+
+"DONT TREAD ON ME"
