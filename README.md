@@ -40,3 +40,5 @@ View my stats on Github
 </p>
 
 "DONT TREAD ON ME"
+
+[![License](https://img.shields.io/badge/license-MIT-%2304D361)](https://github.com/JRGGRoberto/JRGGroberto/blob/master/LICENSE)
