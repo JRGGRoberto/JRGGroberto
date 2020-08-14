@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ccc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:jrggroberto@gmail.com)](mailto:jrggroberto@gmail.com)
 
 ### Olá! Hi! 👋
-My name's Roberto, I'm a developer, I also have experience in infrastructure and DBA. I'm from Brazil,
+My name's Roberto, I'm a developer, I also have experience in infrastructure and DBA. I'm from Brazil.
 
 I've lived in Rio de Janeiro, Lisbon and now I'm in Paraná. I like to travel, stay with my family, ride a bike, play the basses, draw and code.
 
