@@ -14,9 +14,9 @@ I've lived in Rio de Janeiro, Lisbon and now I'm in Paraná. I like to travel, s
 I want to work remotely.
 
 * 🏡 &nbsp; Home office is my :office:
-* 📚 &nbsp; Currently I'm studying: NodeJS, ReactJS, React Native, English
+* 📚 &nbsp; Currently I'm studying: NodeJS, ReactJS, React Native, OBS, English
 * 👽 &nbsp; Learning any technology that appears on my way
-* :bike: &nbsp; I only leave the home office if I go to work nearby
+* :bike: &nbsp; I'd like to work near my home
 
 ---
 
