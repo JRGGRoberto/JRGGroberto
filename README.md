@@ -9,10 +9,8 @@
 ### Olá! Hi! 👋
 My name's Roberto, I'm a developer, I also have experience in infrastructure and DBA. I'm from Brazil.
 
-I've lived in Rio de Janeiro, Lisbon and now I'm in Paraná. I like to travel, stay with my family, ride a bike, play the basses, draw and code.
-
-I want to work remotely.
-
+I've lived in Rio de Janeiro 🇧🇷, Lisbon 🇵🇹 and now I'm in Paraná 🇧🇷. I like to travel, stay with my family, ride a bike, play the basses, draw and code.
+🇵
 * 🏡 &nbsp; Home office is my :office:
 * 📚 &nbsp; Currently I'm studying: NodeJS, ReactJS, React Native, TypeScript, OBS, English
 * 👽 &nbsp; Learning any technology that appears on my way
