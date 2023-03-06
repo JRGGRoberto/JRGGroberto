@@ -36,6 +36,10 @@ View my stats on Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JRGGRoberto&theme=default&show_icons=true&hide=issues&hide_border=true" alt="JRGGRoberto GitHub" />
 </p>
+7️⃣8️⃣9️⃣
+4️⃣5️⃣6️⃣
+1️⃣2️⃣3️⃣
+#️⃣0️⃣*️⃣
 
 "DONT TREAD ON ME"
 
