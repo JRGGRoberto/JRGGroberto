@@ -12,7 +12,7 @@ My name's Roberto, I'm a developer, I also have experience in infrastructure and
 I've lived in Rio de Janeiro 🇧🇷, Lisbon 🇵🇹 and now I'm in Paraná 🇧🇷. I like to travel, stay with my family, ride a bike, play the basses, draw and code.
 
 * :office: &nbsp; UNESPAR;
-* 📚 &nbsp; Currently I'm studying: PHP, JS, Java, TypeScript, OBS, English;
+* 📚 &nbsp; Currently I'm studying: PHP, JS, Java, TypeScript;
 * 📚 &nbsp; Learning any technology that appears on my way;
 * :bike: &nbsp; For in-person jobs, working close to home is an important factor.
 
