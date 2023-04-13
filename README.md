@@ -17,6 +17,7 @@ I've lived in Rio de Janeiro 🇧🇷, Lisbon 🇵🇹 and now I'm in Paraná �
 * :bike: &nbsp; For in-person jobs, working close to home is an important factor.
 
 ---
+<a href="https://stackexchange.com/users/4852812"><img src="https://stackexchange.com/users/flair/4852812.png" width="208" height="58" alt="profile for Roberto G&#243;es on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Roberto G&#243;es on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 Technologies, languages and tools:
 
