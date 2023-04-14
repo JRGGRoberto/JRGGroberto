@@ -13,7 +13,7 @@ I've lived in Rio de Janeiro 🇧🇷, Lisbon 🇵🇹 and now I'm in Paraná �
 
 * :office: &nbsp; UNESPAR;
 * 📚 &nbsp; Currently I'm studying: PHP, JS, Java, TypeScript;
-* 📚 &nbsp; Learning any technology that appears on my way;
+* 🌱 &nbsp; Learning any technology that appears on my way;
 * :bike: &nbsp; For in-person jobs, working close to home is an important factor.
 
 ---
@@ -55,5 +55,18 @@ Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Bat
 #️⃣0️⃣*️⃣
 
 "DONT TREAD ON ME"
+<!--
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+-  I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
 
 [![License](https://img.shields.io/badge/license-MIT-%2304D361)](https://github.com/JRGGRoberto/JRGGroberto/blob/master/LICENSE)
