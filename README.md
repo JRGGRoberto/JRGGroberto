@@ -14,7 +14,7 @@ I've lived in Rio de Janeiro 🇧🇷, Lisbon 🇵🇹 and now I'm in Paraná �
 * :office: &nbsp; UNESPAR;
 * 📚 &nbsp; Currently I'm studying: PHP, JS, Java, TypeScript;
 * 🌱 &nbsp; Learning any technology that appears on my way;
-* :bike: &nbsp; For in-person jobs, working close to home is an important factor.
+* :bike: &nbsp; For in-person jobs, working close to home is an important factor. But for remote work, let's talk...
 
 ---
 <a href="https://stackexchange.com/users/4852812"><img src="https://stackexchange.com/users/flair/4852812.png" width="208" height="58" alt="profile for Roberto G&#243;es on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Roberto G&#243;es on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
