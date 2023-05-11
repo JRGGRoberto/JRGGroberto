@@ -57,18 +57,29 @@ Technologies, languages and tools:
 
 Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Batch Script | draw.io | Gimp | SketchBook
 
+
 ---
   
 ![JRGGRoberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRGGRoberto&show_icons=true)
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRGGRoberto&show_icons=true&locale=en&layout=compact" alt="JRGGRoberto" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JRGGRoberto&" alt="JRGGRoberto" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JRGGroberto&label=Profile%20views&color=0e75b6&style=flat" alt="JRGGroberto" /> </p>
+-->Add dynamically generated GitHub Stat Trophies on your readme 
 
 7️⃣8️⃣9️⃣
 4️⃣5️⃣6️⃣
 1️⃣2️⃣3️⃣
 #️⃣0️⃣*️⃣
 
-"DONT TREAD ON ME"
+
 <!--
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JRGGroberto" alt="JRGGroberto" /></a> </p>
+
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
