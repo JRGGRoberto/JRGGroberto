@@ -59,8 +59,25 @@ Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Bat
 
 
 ---
-  
 ![JRGGRoberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRGGRoberto&show_icons=true)
+<details>
+<p align="center">
+  <a href="https://github.com/JRGGRoberto">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRGGRoberto&theme=transparent" />
+  </a>
+  <a href="https://github.com/JRGGRoberto">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRGGRoberto&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/JRGGRoberto">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JRGGRoberto&theme=transparent" />
+  </a>
+  <a href="https://github.com/JRGGRoberto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRGGRoberto&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+  
+
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRGGRoberto&show_icons=true&locale=en&layout=compact" alt="JRGGRoberto" />
 
