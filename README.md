@@ -84,7 +84,9 @@ Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Bat
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JRGGRoberto&" alt="JRGGRoberto" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JRGGroberto&label=Profile%20views&color=0e75b6&style=flat" alt="JRGGroberto" /> </p>
--->Add dynamically generated GitHub Stat Trophies on your readme 
+
+Add dynamically generated GitHub Stat Trophies on your readme 
+-->
 
 7️⃣8️⃣9️⃣
 4️⃣5️⃣6️⃣
