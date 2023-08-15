@@ -11,7 +11,7 @@ My name's Roberto, I'm a developer, I also have experience in infrastructure and
 
 I'm from Rio de Janeiro 🇧🇷,  I've lived in Lisbon 🇵🇹 and now I'm in Paraná 🇧🇷, if the opportunity is interesting, I can go somewhere else 🌎.
 
-* :office: &nbsp; UNESPAR;
+* :office: &nbsp; UNESPAR [PROEC] - Apucarana ;
 * 📚 &nbsp; Currently I'm studying: PHP, JS, Java, TypeScript;
 * 🌱 &nbsp; Learning any technology that appears on my way;
 * :bike: &nbsp; For in-person jobs, working close to home is an important factor. But for remote work, let's talk...
