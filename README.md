@@ -9,7 +9,7 @@
 ### Olá! Hi! 你好 👋
 My name's Roberto, I'm a developer, I also have experience in infrastructure and DBA. I'm from Brazil.
 
-I've lived in Rio de Janeiro 🇧🇷, Lisbon 🇵🇹 and now I'm in Paraná 🇧🇷. I like to travel, stay with my family, ride a bike, play the basses, draw and code.
+I'm from Rio de Janeiro 🇧🇷,  I've lived in Lisbon 🇵🇹 and now I'm in Paraná 🇧🇷, if the opportunity is interesting, I can go somewhere else 🌎.
 
 * :office: &nbsp; UNESPAR;
 * 📚 &nbsp; Currently I'm studying: PHP, JS, Java, TypeScript;
