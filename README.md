@@ -71,9 +71,9 @@ Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Bat
   <a href="https://github.com/JRGGRoberto">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JRGGRoberto&theme=transparent" />
   </a>
-  <a href="https://github.com/JRGGRoberto">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRGGRoberto&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+ 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRGGRoberto)]
+
 </p>
 </details>
   
@@ -88,9 +88,9 @@ Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Bat
 Add dynamically generated GitHub Stat Trophies on your readme 
 -->
 
-7️⃣8️⃣9️⃣
-4️⃣5️⃣6️⃣
-1️⃣2️⃣3️⃣
+7️⃣8️⃣9️⃣<br>
+4️⃣5️⃣6️⃣<br>
+1️⃣2️⃣3️⃣<br>
 #️⃣0️⃣*️⃣
 
 
