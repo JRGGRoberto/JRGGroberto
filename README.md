@@ -86,12 +86,15 @@ Oracle DB | Linux | MacOS | Windows | VMware | VirtualBox | Delphi | Avaya | Bat
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JRGGroberto&label=Profile%20views&color=0e75b6&style=flat" alt="JRGGroberto" /> </p>
 
 Add dynamically generated GitHub Stat Trophies on your readme 
--->
 
 7️⃣8️⃣9️⃣<br>
 4️⃣5️⃣6️⃣<br>
 1️⃣2️⃣3️⃣<br>
 #️⃣0️⃣*️⃣
+
+-->
+
+
 
 
 <!--
