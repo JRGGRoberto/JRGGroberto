@@ -11,7 +11,7 @@ My name is **Roberto** — I'm a developer with experience in **infrastructure**
 I'm originally from **Brazil**, born in **Rio de Janeiro 🇧🇷**, lived for a while in **Lisbon 🇵🇹**, and now based in **Paraná 🇧🇷**.  
 If the opportunity is exciting, I'm open to relocating 🌍.
 
-> 🇧🇷 [Versão em Português]([README.pt-BR.md])
+> 🇧🇷 [Versão em Português](README.pt-BR.md)
 
 ---
 
