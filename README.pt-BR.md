@@ -19,7 +19,7 @@ Se surgir uma oportunidade interessante, estou aberto a me mudar 🌍.
 
 - 🏢  Trabalhando na **UNESPAR [PROEC]** – Apucarana  
 - 💻  Atualmente utilizando: **PHP**, **JavaScript**, **Java**, **MySQL**  
-- 🌱  Sempre aprendendo — exploro qualquer tecnologia que cruza meu caminho  
+- 🌱  Sempre aprendendo — exploro qualquer tecnologia que cruza meu caminho - Atualmente: Python e Azure Cloud
 - 🚲  Para trabalhos presenciais, estar perto de casa é importante. Para vagas remotas — podemos conversar!
 
 ---
