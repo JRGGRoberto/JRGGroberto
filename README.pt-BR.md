@@ -28,8 +28,6 @@ Se surgir uma oportunidade interessante, estou aberto a me mudar 🌍.
 
 Aberto a colaborações, freelas e boas conversas sobre tecnologia.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRGGRoberto&show_icons=true&locale=en&layout=compact" alt="JRGGRoberto" />
-
 
 <a href="https://stackexchange.com/users/4852812"><img src="https://stackexchange.com/users/flair/4852812.png" width="208" height="58" alt="profile for Roberto G&#243;es on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Roberto G&#243;es on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
